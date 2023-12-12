@@ -1,0 +1,31 @@
+﻿lab_test_id,patient_id,ehrvisit_id,lab_id,report,date,lab_fee
+1,1,1,1,Blood Count,1/5/23,50
+2,2,2,2,Cholesterol Test,1/7/23,75
+3,3,3,3,Urine Analysis,1/10/23,40
+4,4,4,4,X-Ray,1/12/23,120
+5,5,5,5,ECG,1/15/23,90
+6,6,6,6,Blood Sugar Test,1/18/23,35
+7,7,7,7,CT Scan,1/20/23,180
+8,8,8,8,MRI,1/23/23,200
+9,9,9,9,Bone Density Test,1/25/23,60
+10,10,10,10,Allergy Test,1/28/23,55
+11,11,11,11,Thyroid Function Test,1/30/23,70
+12,12,12,12,Stool Analysis,2/2/23,45
+13,13,13,13,Blood Pressure Check,2/5/23,20
+14,14,14,14,Ultrasound,2/8/23,100
+15,15,15,15,Liver Function Test,2/10/23,65
+16,16,16,16,Kidney Function Test,2/13/23,75
+17,17,17,17,Cardiac Enzyme Test,2/15/23,80
+18,18,18,18,Lung Function Test,2/18/23,70
+19,19,19,19,Strep Throat Test,2/20/23,30
+20,20,20,20,HIV Test,2/23/23,55
+21,21,21,21,Glucose Tolerance Test,2/25/23,45
+22,22,22,22,Prostate-Specific Antigen Test,2/28/23,65
+23,23,23,23,Colonoscopy,3/2/23,150
+24,24,24,24,Pap Smear,3/5/23,40
+25,25,25,25,Bone Marrow Aspiration,3/8/23,110
+26,26,26,26,Genetic Testing,3/10/23,90
+27,27,27,27,Cerebrospinal Fluid Analysis,3/13/23,95
+28,28,28,28,Electroencephalogram (EEG),3/15/23,70
+29,29,29,29,Hormone Test,3/18/23,50
+30,30,30,30,Lead Poisoning Test,3/20/23,25

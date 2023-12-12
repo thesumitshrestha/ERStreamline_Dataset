@@ -1,0 +1,31 @@
+﻿prescription_id,patient_id,medication_name,dosage,prescribed_date,ehrvisit_id,healthstaff_id,medicine_cost
+1,1,Lisinopril,10 mg,2/15/23,1,1,15
+2,2,Metformin,500 mg,2/17/23,2,2,10
+3,3,sumatriptan,50 mg,2/20/23,3,3,25
+4,4,Albuterol,2 puffs,2/23/23,4,4,20
+5,5,Ibuprofen,400 mg,2/25/23,5,5,5
+6,6,Sertraline,50 mg,2/28/23,6,6,30
+7,7,Omeprazole,20 mg,3/3/23,7,7,12
+8,8,Loratadine,10 mg,3/6/23,8,8,8
+9,9,Escitalopram,10 mg,3/8/23,9,9,28
+10,10,Salmeterol,2 puffs,3/11/23,10,10,18
+11,11,Alendronate,400 mg,3/14/23,11,11,35
+12,12,Glipizide,5 mg,3/17/23,12,12,22
+13,13,Methotrexate,15 mg,3/20/23,13,13,40
+14,14,Atorvastatin,20 mg,3/23/23,14,14,15
+15,15,Warfarin,5 mg,3/26/23,15,15,10
+16,16,Losartan,50 mg,3/29/23,16,16,12
+17,17,Levothyroxine,75 mcg,4/1/23,17,17,10
+18,18,Orlistat,120 mg,4/3/23,18,18,45
+19,19,Colchicine,0.6 mg,4/6/23,19,19,25
+20,20,Zolpidem,10 mg,4/9/23,20,20,30
+21,21,Fluticasone,2 puffs,4/12/23,21,21,15
+22,22,Phenytoin,100 mg,4/15/23,22,22,18
+23,23,Paclitaxel,100 mg,4/18/23,23,23,50
+24,24,Ranitidine,150 mg,4/21/23,24,24,8
+25,25,Oral Contraceptive,1 tablet daily,4/24/23,25,25,40
+26,26,Sildenafil,40 mg,4/27/23,26,26,30
+27,27,Ciprofloxacin,2 puffs,4/30/23,27,27,12
+28,28,Amoxicillin,100 mcg,5/3/23,28,28,10
+29,29,Amoxicillin,1000 mg,5/6/23,29,29,10
+30,30,Tamoxifen,20 mg,5/9/23,30,30,35
